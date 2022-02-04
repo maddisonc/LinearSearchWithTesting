@@ -8,7 +8,7 @@ public class LinearSearch
             {
                 return i;
             }
-        }
+        } // end for loop
         return -1;
-    }
-}
+    } // end linearSearchMethod
+} // end linearSearch class
